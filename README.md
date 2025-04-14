@@ -22,7 +22,7 @@ The OCR (Optical Character Recognition) Project is designed to process images, e
 - Tessdata
 
 ## Installation and Usage Instructions
-Step 1- Clone the project from git using git clone command, Link clone Project-https://github.com/Taibaz-Pathan/ocr-techtitans.git <br>    
+Step 1- Clone the project from git using git clone command, Link clone Project- https://github.com/Mprabhu26/TextExtractionfromImage.git <br>    
 ![clone](./assets/step1.1.png) <br>
 Figure1. Git Clone of Project<br>
 
@@ -164,7 +164,7 @@ using OCRProject.Interfaces;<br>
 using System.Diagnostics;<br>
 
 ## Unit test Project
-https://github.com/Taibaz-Pathan/ocr-techtitans/tree/main/OCRTestProject<br>
+https://github.com/Mprabhu26/TextExtractionfromImage/tree/main/OCRTestProject<br>
 
 ## Steps to run Unit test 
 Step 1- Import the UnitTest Project in Visual Studio. OCRProjectE2ETests.cs contains all the end to end unit tests<br>
